@@ -1,0 +1,10 @@
+#para1 {
+    float: left;
+}
+#para2 {
+    float: right;
+}
+div {
+    margin: 10px;
+    width: 48%;
+}
